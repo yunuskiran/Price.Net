@@ -19,11 +19,11 @@ This is a price object library that is includes some price operations. Using thi
 
 ## Usage
 Example:
-
-`var leftPrice = new Price(1250M, "AUD");`
-`var rightPrice = new Price(750M, "AUD");`
-`var totalPrice = leftPrice + rightPrice;`
-
+```
+var leftPrice = new Price(1250M, "AUD");
+var rightPrice = new Price(750M, "AUD");
+var totalPrice = leftPrice + rightPrice;
+```
 ---
 
 ## License
