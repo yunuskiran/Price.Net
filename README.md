@@ -1,6 +1,6 @@
 Price.NET
 ============
-This is a price object library that is includes some price operations. Using this library you can easily add, multiply or divide multiple prices or compare two different prices. 
+This is a price object library that includes some price features. Using this library you can easily add, multiply or divide multiple prices. On the other hand you can simply compare two different prices and you can check equality or inequality given prices. 
 
 ---
 ## Features
@@ -9,13 +9,13 @@ This is a price object library that is includes some price operations. Using thi
 - Multiplication
 - Division
 - Equality check
-- Unequality check
+- Inequality check
 - Compare 
 ---
 ## Planning
 - Convert from the string
 - Integrate with Currency Rate 
-- Multiple Currency Operations
+- Multiple Currency Code Operations
 
 ## Usage
 Example:
